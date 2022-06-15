@@ -1,6 +1,6 @@
 # <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;Hi there! I'm Sanjida Alam&nbsp; ![](https://komarev.com/ghpvc/?username=thesanjida&label=PROFILE+VIEWS&color=blueviolet) <a href="https://github.com/thesanjida?tab=followers"><img src="https://img.shields.io/github/followers/thesanjida?label=Followers&style=social" alt="GitHub Badge"></a><a href="https://github.com/thesanjida?tab=followers"><img src="https://img.shields.io/github/watchers/thesanjida/thesanjida?style=social" alt="GitHub Badge"></a>
 
-At-present, I am doing my bachelor's degree in Computer Science & Engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
+At-present, I am performing my BSc. in Computer Science & Engineering from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
 
 # <img src="assets/img/programming-languages.gif"  width="22" height="22"> &nbsp;Used Languages
 
