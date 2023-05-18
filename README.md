@@ -14,8 +14,6 @@ At-present, I am performing my BSc. in Computer Science & Engineering from [Amer
 
 ![Sanjida's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thesanjida&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://github.com/thesanjida/github-readme-activity-graph"><img alt="src="https://activity-graph.herokuapp.com/graph?username=thesanjida&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
