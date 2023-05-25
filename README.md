@@ -4,7 +4,7 @@ At-present, I am performing my BSc. in Computer Science & Engineering from [Amer
 
 Feel free to connect with me. I'm also **available** at: <br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjida-alam-1058911a1/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjida.alam.in.tech@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjida-alam-1058911a1/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjida.alam.in.tech@gmail.com)&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thesanjidaalam)
 
 <br>
 <br>
